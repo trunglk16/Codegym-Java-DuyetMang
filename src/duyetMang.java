@@ -3,6 +3,7 @@
 public class duyetMang {
     public static void main(String[] args) {
         String[] students = {"Christian", "Michael", "Camila", "Sienna", "Tanya", "Connor", "Zachariah", "Mallory", "Zoe", "Emily"};
+        System.out.println("Nhap ten can tim");
         java.util.Scanner input = new java.util.Scanner(System.in);
 
         String name = input.nextLine();
